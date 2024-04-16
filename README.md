@@ -5,8 +5,8 @@ Welcome to Learnify, an EdTech platform designed to empower learners with knowle
 
 ## Installation
 
-To get started with Learnify, clone this repository to your local machine and navigate to the project directory. Then, install dependencies for both the front-end and back-end using `npm install`.
-
+    To get started with Learnify, clone this repository to your local machine and navigate to the project directory. Then, install dependencies for both the front-end and back-end using go to .Code then .FrontEnd `npm install`.
+`npm run dev` Backend should contain the payment integration but due to time constrain its pending
 ## Usage
 
 Once dependencies are installed, start both the front-end and back-end servers using `npm run dev`. This command will concurrently start the development servers, allowing you to access the Learnify application locally.
